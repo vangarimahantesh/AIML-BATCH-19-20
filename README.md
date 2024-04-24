@@ -19,3 +19,5 @@
 [lab-8(https://github.com/vangarimahantesh/AIML-BATCH-19-20/blob/main/assignment_8.ipynb)]
 
 [lab-9(https://github.com/vangarimahantesh/AIML-BATCH-19-20/blob/main/Assignment9.ipynb)]
+
+[lab-10(https://github.com/vangarimahantesh/AIML-BATCH-19-20/blob/main/assignment%20-10.ipynb)]
